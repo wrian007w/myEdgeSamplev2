@@ -143,8 +143,8 @@
           }
         },
         {
-          "title": "Hero",
-          "id": "hero",
+          "title": "Hero-007-007",
+          "id": "hero007-007",
           "plugins": {
             "xwalk": {
               "page": {
