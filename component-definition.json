@@ -98,8 +98,8 @@
           }
         },
         {
-          "title": "Card-ryan007-007",
-          "id": "card-ryan007-0077",
+          "title": "Card",
+          "id": "card",
           "plugins": {
             "xwalk": {
               "page": {
@@ -143,8 +143,8 @@
           }
         },
         {
-          "title": "Hero-007-007",
-          "id": "hero007-007",
+          "title": "Hero",
+          "id": "hero",
           "plugins": {
             "xwalk": {
               "page": {
